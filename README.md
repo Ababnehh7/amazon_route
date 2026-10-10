@@ -1,0 +1,1 @@
+This is a simple, beginner-friendly Python game created as a University Project during my first year. The main goal of this project is to practice and demonstrate the core concepts of searching algo , Object-Oriented Programming (OOP) in Python.
